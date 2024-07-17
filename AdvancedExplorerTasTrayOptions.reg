@@ -1,0 +1,51 @@
+
+Windows Registry Editor Version 5.00
+[HKEY _CURRENT_USER \SOFTWARE \Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Start_
+_SearchFiles"=dword: 00000002
+"ServerAdminUI"=dword: 00000000
+"Hidden"=dword: 00000001
+"ShowCompColor"=dword: 00000001
+"HideFileExt"=dword: 00000000
+"DontPrettyPath"=dword: 00000000
+"ShowInfoTip"=dword: 00000001
+"HideIcons"=dword: 00000000
+"MapNetDrvBtn"=dword: 00000000
+"WebView"=dword: 00000001
+"Filter"=dword: 00000000
+"ShowSuperHidden"=dword: 00000001
+"SeparateProcess"=dword: 00000000
+"AutoCheckSelect"=dword:00000000
+"IconsOnly"=dword: 00000000
+"ShowTypeOverlay"=dword: 00000001
+"ShowStatusBar"=dword: 00000001
+"StoreAppsOnTaskbar"=dword: 00000001
+"ListviewAlphaSelect"=dword:00000001
+"ListviewShadow"=dword: 00000001
+"TaskbarAnimations"=dword: 00000001
+"StartMenuInit"=dword: 0000000d
+"TaskbarStateLastRun"=hex:bc,c2, c2,65,00,00,00,00
+"ReindexedProfile"=dword: 00000001
+"TaskbarSizeMove"=dword: 00000001
+"TaskbarSmallIcons"=dword:00000001
+"DontUsePowerShe110nWinX"=dword: 00000001
+"AlwaysShowMenus"=dword: 00000001
+"ShellViewReentered"=dword: 00000001
+"TaskbarAutoHideInTabletMode"=dword: 00000000
+"ShowTaskViewButton"=dword: 00000000
+"StartMigratedBrowserPin"=dword: 00000001
+"TaskbarMigratedBrowserPin"=dword:00000001
+"HideDrivesWithNoMedia"=dword: 00000000
+"VirtualDesktopTaskbarFilter"=dword: 00000000
+"VirtualDesktopAltTabFilter"=dword: 00000000
+"ShowCortanaButton"=dword: 00000000
+"OnboardUnpinCortana"=dword: 00000001
+"ShowSeconds InSystemClock"=dword: 00000001
+[HKEY_CURRENT_USER\SOFTWARE \Microsoft\Windows\CurrentVersion\Explorer\Advanced\People]
+"PeopleBand"=dword: 00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced \PackageActivate]
+"Microsoft .Windows. StartMenuExperienceHost_10.0.19041. 3636_neutral_neutral _cw5n1h2txyewy"=dword: 00000000
+Microsoft. Windows. Search_1.14.10.19041_neutral_neutral_Cw5n1h2txyewy"=dword: 00000000
+"Microsoft. YourPhone_1.23122.73.0_x64
+8wekyb3d8bbwe"=dword: 00000000
+"MicrosoftWindows. Client. CBS_1000.19053.1000.0_x64_cw5n1h2txyewy"=dword: 00000000
